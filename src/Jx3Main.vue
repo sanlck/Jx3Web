@@ -1,5 +1,23 @@
 <template>
   <div id="app">
+	  <!-- <vue-particles
+	        color="#dedede"
+	        :particleOpacity="0.7"
+	        :particlesNumber="40"
+	        shapeType="star"
+	        :particleSize="4"
+	        linesColor="#FFFFFF"
+	        :linesWidth="2"
+	        :lineLinked="true"
+	        :lineOpacity="0.4"
+	        :linesDistance="150"
+	        :moveSpeed="3"
+	        :hoverEffect="true"
+	        hoverMode="grab"
+	        :clickEffect="true"
+	        clickMode="push"
+	        class="cash">
+	      </vue-particles> -->
     <Jx3MainLog/>
   </div>
 </template>
@@ -16,6 +34,7 @@ export default {
 </script>
 
 <style>
+	@import url("./css/lizi.css");
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -23,7 +42,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-  background-color: #2C3E50;
+  
 
 }
 </style>
