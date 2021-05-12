@@ -34,7 +34,7 @@ export default {
 </script>
 
 <style>
-	@import url("./css/lizi.css");
+	/* @import url("./css/lizi.css"); */
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -42,7 +42,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-  
+  background-image: url(images/background.87f99497.png);
 
 }
 </style>
