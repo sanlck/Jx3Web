@@ -1,0 +1,5 @@
+{
+  
+    "statements":"http://localhost:8081/jx3-statements/gets?currentPage=1",
+	"addJx3":"http://localhost:8081/c-user/addJx3"
+}

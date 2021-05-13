@@ -16,6 +16,7 @@ body {
 		height: 1em;
 		box-sizing: content-box;
 		background: none;
+		outline:none;
 	}
 	.index_inputWrapper__Du7MD{
 		display: flex;
